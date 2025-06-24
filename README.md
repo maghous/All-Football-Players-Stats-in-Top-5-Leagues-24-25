@@ -83,7 +83,7 @@ Make sure you have Python 3.8+ installed on your system.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Top5-European-Leagues-Analysis.git
+   git clone https://github.com/maghous/Top5-European-Leagues-Analysis.git
    cd Top5-European-Leagues-Analysis
    ```
 
@@ -105,8 +105,8 @@ Make sure you have Python 3.8+ installed on your system.
 
 ## 📊 Sample Visualizations
 
-### Top Scorers Across All Leagues
-![Top Scorers](outputs/figures/top_scorers_comparison.png)
+### Top Player Across All Leagues
+![Top Scorers](outputs/figures/Top_Performers.png)
 
 ### League Performance Comparison
 ![League Stats](outputs/figures/league_performance_radar.png)
