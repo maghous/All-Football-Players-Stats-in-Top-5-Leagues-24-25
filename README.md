@@ -103,16 +103,6 @@ Make sure you have Python 3.8+ installed on your system.
    jupyter notebook
    ```
 
-## 📊 Sample Visualizations
-
-### Top Player Across All Leagues
-![Top Scorers](Outputs/figures/Top Performers.png)
-
-### League Performance Comparison
-![League Stats](outputs/figures/league_performance_radar.png)
-
-### Player Efficiency Analysis
-![Player Efficiency](outputs/figures/player_efficiency_scatter.png)
 
 ## 🔍 Key Insights
 
