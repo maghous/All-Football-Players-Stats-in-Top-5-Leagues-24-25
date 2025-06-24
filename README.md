@@ -106,7 +106,7 @@ Make sure you have Python 3.8+ installed on your system.
 ## 📊 Sample Visualizations
 
 ### Top Player Across All Leagues
-![Top Scorers](outputs/figures/Top_Performers.png)
+![Top Scorers](Outputs/figures/Top Performers.png)
 
 ### League Performance Comparison
 ![League Stats](outputs/figures/league_performance_radar.png)
