@@ -63,25 +63,15 @@ Top5-European-Leagues-Analysis/
 │   └── external/               # Additional data sources
 │
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_player_analysis.ipynb
-│   ├── 03_team_comparisons.ipynb
-│   └── 04_visualization.ipynb
-│
-├── src/
-│   ├── data_processing.py      # Data cleaning functions
-│   ├── analysis.py            # Statistical analysis functions
-│   ├── visualization.py       # Plotting functions
-│   └── utils.py               # Helper functions
+│   ├── 01_player_analysis.ipynb
+│   ├── 02_team_comparisons.ipynb
+│   └── 03_visualization.ipynb
 │
 ├── outputs/
 │   ├── figures/               # Generated plots and charts
 │   └── reports/               # Analysis reports
 │
-├── requirements.txt           # Project dependencies
 ├── README.md                 # Project documentation
-└── LICENSE                   # License file
-```
 
 ## 🚀 Getting Started
 
